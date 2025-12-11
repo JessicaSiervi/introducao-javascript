@@ -63,6 +63,10 @@ section {
   background-color: #7d7d7d;
 }
 
+.red {
+  background-color: red;
+}
+
 #home {
   display: flex;
   flex-direction: column;
